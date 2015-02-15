@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Semih&lt;3Burcu</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="intro_message">Aşkım seni çok seviyorum.
+        Sevgililer Günümüz kutlu olsun. Senin için bu oyunu hazırladım.
+        Telefonu SALLA bakalım neler olacak?</string>
+    <string name="action_share">Paylaş</string>
+    <string name="share_chooser_title">Nerede paylaşmak istersin aşkım?</string>
+
+</resources>
